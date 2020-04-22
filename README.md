@@ -15,7 +15,5 @@ Os repositórios são listados na página com avatar, título e descrição e ta
 
 ## :camera:
 ![ScreenShot 1](./src/assets/ss1.png)
-Format: ![Alt Text](url)
 
 ![ScreenShot 2](./src/assets/ss2.png)
-Format: ![Alt Text](url)
