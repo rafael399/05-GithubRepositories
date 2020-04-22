@@ -12,3 +12,10 @@ Os repositórios são listados na página com avatar, título e descrição e ta
 - Rode a aplicação com o comando `yarn start`
 - Adicione repositórios digitando o nome do autor/repositório no campo de texto (exemplo: `facebook/react`) e apertando `enter` ou clicando no botão 'Pesquisar'
 - Caso queira, clique em um dos repositórios listados para ver mais detalhes sobre ele
+
+## :camera:
+![ScreenShot 1](./src/assets/ss1.png)
+Format: ![Alt Text](url)
+
+![ScreenShot 2](./src/assets/ss2.png)
+Format: ![Alt Text](url)
